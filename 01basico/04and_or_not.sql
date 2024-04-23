@@ -1,3 +1,5 @@
+-- podem ser combinados com WHERE
+
 select * from alunos 
 where id_aluno > 5 AND id_aluno < 8;
 

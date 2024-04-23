@@ -1,3 +1,5 @@
+-- para modificar registros em uma tabela
+
 UPDATE cursos SET preco = 299.00 
 WHERE id_curso = 4
 

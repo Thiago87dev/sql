@@ -1,3 +1,5 @@
+-- para inserir novos registros em uma tabela
+
 insert into alunos (nome_aluno, email, telefone, bairro) VALUES ('Lina', 'lina@gmail.com', '47997005530', 'Adhemar Garcia');
 
 INSERT INTO cursos VALUES(
