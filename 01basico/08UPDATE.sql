@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- para modificar registros em uma tabela
 
 UPDATE cursos SET preco = 299.00 

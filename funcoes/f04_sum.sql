@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- retorna a soma de uma coluna numerica
 
 select sum(preco) as 'soma dos preços dos cursos' from cursos;

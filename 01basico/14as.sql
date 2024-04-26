@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- serve para dar um nome temporario para uma coluna ou tabela (apelido)
 
 select nome_aluno as aluno from alunos;

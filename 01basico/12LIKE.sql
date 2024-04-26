@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- usado junto com WHERE para procurar um padrao especifico
 -- existem 2 curingas usados com o LIKE (que podem ser combinados)
 -- % -> zero 1 ou varios caracteres

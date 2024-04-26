@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- podem ser combinados com WHERE
 
 select * from alunos 

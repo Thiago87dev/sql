@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- para deletar registros em uma tabela
 
 DELETE FROM alunos where id_aluno = 6;

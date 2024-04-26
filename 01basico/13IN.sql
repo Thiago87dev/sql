@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- permite especificar varios valores no where
 
 SELECT * FROM alunos where nome_aluno in ('thiago', 'mariana');

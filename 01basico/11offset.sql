@@ -1,3 +1,5 @@
+use db_faculdade;
+
 -- começa a partir de...
 
 select * from alunos LIMIT 5 offset 2;

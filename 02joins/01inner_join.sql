@@ -1,3 +1,4 @@
+use db_faculdade;
 -- seleciona registros que possuem valores correspondentes em ambas as tabelas
 
 SELECT a.nome_aluno, c.nome_curso 
